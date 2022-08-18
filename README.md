@@ -6,3 +6,4 @@ Structure List
 --------------
 * Oasis
 * Birch Forest Temple Ruins
+* Brick Pyramid
