@@ -10,3 +10,4 @@ Schematics
 * Birch Forest Ruins - PrairieWind
 * Desert Oasis - PrairieWind
 * Brick Pyramid - PrairieWind
+* Graveyard - PrairieWind
