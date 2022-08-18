@@ -1,7 +1,12 @@
 Change Log
 ==========
 
-Current Version: 1.0.1
+Current Version: 1.1.0
+
+1.1.0
+-----
+* Added Brick Pyramids (Idea from Minecraft Infdev)
+* Added Graveyards
 
 1.0.1
 ------
