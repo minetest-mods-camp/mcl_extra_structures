@@ -8,3 +8,4 @@ Structure List
 * Birch Forest Temple Ruins
 * Brick Pyramid
 * Graveyard
+* Loggers Camp

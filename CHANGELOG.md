@@ -1,7 +1,11 @@
 Change Log
 ==========
 
-Current Version: 1.1.0
+Current Version: 1.2.0 (In-Dev)
+
+1.2.0
+-----
+* Add Loggers Camp (cora)
 
 1.1.0
 -----

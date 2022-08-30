@@ -4,6 +4,7 @@ Credits
 Code
 ----
 * PrairieWind
+* cora
 
 Schematics
 ----------
@@ -11,3 +12,4 @@ Schematics
 * Desert Oasis - PrairieWind
 * Brick Pyramid - PrairieWind
 * Graveyard - PrairieWind
+* Loggers Camp - cora
