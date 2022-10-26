@@ -1,7 +1,11 @@
 Change Log
 ==========
 
-Current Version: 1.2.0
+Current Version: 1.3.0 (In-dev)
+
+1.3.0
+-----
+* Add Sandstone Obelisks (Michieal)
 
 1.2.0
 -----

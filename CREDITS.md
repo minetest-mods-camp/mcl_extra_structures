@@ -13,3 +13,4 @@ Schematics
 * Brick Pyramid - PrairieWind
 * Graveyard - PrairieWind
 * Loggers Camp - cora
+* Sandstone Obelisks - Michieal (aka Faerraven)

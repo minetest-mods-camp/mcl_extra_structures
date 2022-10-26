@@ -10,3 +10,4 @@ dofile(mod .. "/birch_forest_ruins.lua") -- Load Birch Forest Ruins
 dofile(mod .. "/brick_pyramid.lua") -- Load Brick Pyramid
 dofile(mod .. "/graveyard.lua") -- Load Graveyards
 dofile(mod .. "/loggers_camp.lua") -- Load Loggers Camp
+dofile(mod .. "/sandstone_obelisk.lua") -- Load Sandstone Obelisks
