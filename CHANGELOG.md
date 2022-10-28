@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-Current Version: 1.3.0 (In-dev)
+Current Version: 1.3.0
 
 1.3.0
 -----
