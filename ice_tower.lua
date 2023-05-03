@@ -13,7 +13,7 @@ mcl_structures.register_structure("ice_tower",{
 	y_min = 1,
 	biomes = { "IcePlains", "IcePlainsSpikes" },
 	sidelen = 25,
-	construct_nodes = {"mcl_books:bookshelf", "mcl_furnaces:furnace"},
+	construct_nodes = {"mcl_books:bookshelf", "mcl_furnaces:furnace", "mcl_grindstone:grindstone"},
 	filenames = {
 		modpath.."/schematics/mcl_extra_structures_ice_tower.mts",
 	},
@@ -27,11 +27,13 @@ mcl_structures.register_structure("ice_tower",{
 				{ itemstring = "mcl_core:diamond", weight = 1, amount_min = 1, amount_max = 3 },
 				{ itemstring = "mcl_farming:cookie", weight = 15, amount_min = 3, amount_max=7 },
 				{ itemstring = "mcl_core:sprucetree", weight = 15, amount_min = 3, amount_max=7 },
-				{ itemstring = "mcl_tools:pick_iron", weight = 15, },
-				{ itemstring = "mcl_tools:shovel_iron", weight = 15, },
+				{ itemstring = "mcl_tools:pick_iron", weight = 6, },
+				{ itemstring = "mcl_tools:shovel_iron", weight = 6, },
 				{ itemstring = "mcl_torches:torch", weight = 15, amount_min = 3, amount_max=7 },
-				{ itemstring = "mcl_armor:chestplate_iron", weight = 1 },
-				{ itemstring = "mcl_armor:leggings_iron", weight = 2 },
+				{ itemstring = "mcl_armor:chestplate_iron", weight = 1, func = function(stack, pr) mcl_enchanting.enchant_uniform_randomly(stack, {"soul_speed"}, pr) end },
+				{ itemstring = "mcl_armor:leggings_iron", weight = 2, func = function(stack, pr) mcl_enchanting.enchant_uniform_randomly(stack, {"soul_speed"}, pr) end },
+				{ itemstring = "mcl_bows:arrow", weight = 15, amount_min = 2, amount_max=7 },
+				{ itemstring = "mcl_bows:bow", weight = 5, func = function(stack, pr) mcl_enchanting.enchant_uniform_randomly(stack, {"soul_speed"}, pr) end },
 			}
 		}}
 	},
