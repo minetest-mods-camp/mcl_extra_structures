@@ -10,6 +10,7 @@ Structure List
 * Graveyard
 * Loggers Camp
 * Sandstone Obelisks
+* Ice Tower
 
 Disabling Specific Structures
 -----------------------------

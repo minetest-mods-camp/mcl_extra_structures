@@ -14,3 +14,4 @@ Schematics
 * Graveyard - PrairieWind
 * Loggers Camp - cora
 * Sandstone Obelisks - Michieal (aka Faerraven)
+* Ice Tower - PrairieWind
